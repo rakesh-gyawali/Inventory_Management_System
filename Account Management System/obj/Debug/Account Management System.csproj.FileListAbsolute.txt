@@ -1,0 +1,26 @@
+C:\Users\Kiran Bhusal\Desktop\Account-Management-System\Account Management System\bin\Debug\Account Management System.exe.config
+C:\Users\Kiran Bhusal\Desktop\Account-Management-System\Account Management System\bin\Debug\Account Management System.exe
+C:\Users\Kiran Bhusal\Desktop\Account-Management-System\Account Management System\bin\Debug\Account Management System.pdb
+C:\Users\Kiran Bhusal\Desktop\Account-Management-System\Account Management System\obj\Debug\Account Management System.csprojAssemblyReference.cache
+C:\Users\Kiran Bhusal\Desktop\Account-Management-System\Account Management System\obj\Debug\Account_Management_System.Form1.resources
+C:\Users\Kiran Bhusal\Desktop\Account-Management-System\Account Management System\obj\Debug\Account_Management_System.Properties.Resources.resources
+C:\Users\Kiran Bhusal\Desktop\Account-Management-System\Account Management System\obj\Debug\Account Management System.csproj.GenerateResource.cache
+C:\Users\Kiran Bhusal\Desktop\Account-Management-System\Account Management System\obj\Debug\Account Management System.csproj.CoreCompileInputs.cache
+C:\Users\Kiran Bhusal\Desktop\Account-Management-System\Account Management System\obj\Debug\Account Management System.exe
+C:\Users\Kiran Bhusal\Desktop\Account-Management-System\Account Management System\obj\Debug\Account Management System.pdb
+C:\Users\Kiran Bhusal\Desktop\Account-Management-System\Account Management System\obj\Debug\Account_Management_System.Form2.resources
+D:\code\.net\Account-Management-System\Account Management System\obj\Debug\Account Management System.csprojAssemblyReference.cache
+D:\code\.net\Account-Management-System\Account Management System\obj\Debug\Account_Management_System.Properties.Resources.resources
+D:\code\.net\Account-Management-System\Account Management System\obj\Debug\Account_Management_System.UserForm.resources
+D:\code\.net\Account-Management-System\Account Management System\obj\Debug\Account Management System.csproj.GenerateResource.cache
+D:\code\.net\Account-Management-System\Account Management System\obj\Debug\Account Management System.csproj.CoreCompileInputs.cache
+D:\code\.net\Account-Management-System\Account Management System\bin\Debug\Account Management System.exe.config
+D:\code\.net\Account-Management-System\Account Management System\bin\Debug\Account Management System.exe
+D:\code\.net\Account-Management-System\Account Management System\bin\Debug\Account Management System.pdb
+D:\code\.net\Account-Management-System\Account Management System\obj\Debug\Account_Management_System.Customerentry_form.resources
+D:\code\.net\Account-Management-System\Account Management System\obj\Debug\Account_Management_System.Customer_detailsform.resources
+D:\code\.net\Account-Management-System\Account Management System\obj\Debug\Account_Management_System.Dashboard_form.resources
+D:\code\.net\Account-Management-System\Account Management System\obj\Debug\Account_Management_System.LoginForms.resources
+D:\code\.net\Account-Management-System\Account Management System\obj\Debug\Account_Management_System.Registration_form.resources
+D:\code\.net\Account-Management-System\Account Management System\obj\Debug\Account Management System.exe
+D:\code\.net\Account-Management-System\Account Management System\obj\Debug\Account Management System.pdb
