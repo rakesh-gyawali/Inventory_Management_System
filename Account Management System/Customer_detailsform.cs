@@ -16,5 +16,15 @@ namespace Account_Management_System
         {
             InitializeComponent();
         }
+
+        private void Customer_detailsform_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

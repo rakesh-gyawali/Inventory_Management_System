@@ -16,7 +16,7 @@ namespace Account_Management_System
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new LoginForms());
+            Application.Run(new Dashboard_form());
         }
     }
 }

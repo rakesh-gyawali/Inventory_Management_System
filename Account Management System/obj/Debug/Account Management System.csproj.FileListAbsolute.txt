@@ -24,3 +24,18 @@ D:\code\.net\Account-Management-System\Account Management System\obj\Debug\Accou
 D:\code\.net\Account-Management-System\Account Management System\obj\Debug\Account_Management_System.Registration_form.resources
 D:\code\.net\Account-Management-System\Account Management System\obj\Debug\Account Management System.exe
 D:\code\.net\Account-Management-System\Account Management System\obj\Debug\Account Management System.pdb
+C:\Users\Kiran Bhusal\Documents\GitHub\Inventory_Management_System\Account Management System\bin\Debug\Account Management System.exe.config
+C:\Users\Kiran Bhusal\Documents\GitHub\Inventory_Management_System\Account Management System\bin\Debug\Account Management System.exe
+C:\Users\Kiran Bhusal\Documents\GitHub\Inventory_Management_System\Account Management System\bin\Debug\Account Management System.pdb
+C:\Users\Kiran Bhusal\Documents\GitHub\Inventory_Management_System\Account Management System\obj\Debug\Account Management System.csprojAssemblyReference.cache
+C:\Users\Kiran Bhusal\Documents\GitHub\Inventory_Management_System\Account Management System\obj\Debug\Account_Management_System.Customerentry_form.resources
+C:\Users\Kiran Bhusal\Documents\GitHub\Inventory_Management_System\Account Management System\obj\Debug\Account_Management_System.Customer_detailsform.resources
+C:\Users\Kiran Bhusal\Documents\GitHub\Inventory_Management_System\Account Management System\obj\Debug\Account_Management_System.Dashboard_form.resources
+C:\Users\Kiran Bhusal\Documents\GitHub\Inventory_Management_System\Account Management System\obj\Debug\Account_Management_System.LoginForms.resources
+C:\Users\Kiran Bhusal\Documents\GitHub\Inventory_Management_System\Account Management System\obj\Debug\Account_Management_System.Properties.Resources.resources
+C:\Users\Kiran Bhusal\Documents\GitHub\Inventory_Management_System\Account Management System\obj\Debug\Account_Management_System.Registration_form.resources
+C:\Users\Kiran Bhusal\Documents\GitHub\Inventory_Management_System\Account Management System\obj\Debug\Account_Management_System.UserForm.resources
+C:\Users\Kiran Bhusal\Documents\GitHub\Inventory_Management_System\Account Management System\obj\Debug\Account Management System.csproj.GenerateResource.cache
+C:\Users\Kiran Bhusal\Documents\GitHub\Inventory_Management_System\Account Management System\obj\Debug\Account Management System.csproj.CoreCompileInputs.cache
+C:\Users\Kiran Bhusal\Documents\GitHub\Inventory_Management_System\Account Management System\obj\Debug\Account Management System.exe
+C:\Users\Kiran Bhusal\Documents\GitHub\Inventory_Management_System\Account Management System\obj\Debug\Account Management System.pdb

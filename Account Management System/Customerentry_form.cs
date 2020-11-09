@@ -16,5 +16,10 @@ namespace Account_Management_System
         {
             InitializeComponent();
         }
+
+        private void Customerentry_form_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
